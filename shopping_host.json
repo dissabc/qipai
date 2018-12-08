@@ -1,2 +1,7 @@
 {
+  "web_host":"aHR0cDovL3d3dy5pZGM4ODcuY29tOjgwMDE=",
+  "login_host":"MTE2LjMxLjk5LjE0Mg==",
+  "server_hosts":["MTE2LjMxLjk5LjE0Mg=="],
+  "pay_host":"aHR0cDovLzExNi4zMS45OS41ODoxMTExMQ==",
+  "game_host":"aHR0cDovLzExNi4zMS45OS41ODozNzk1Mg=="
 }
